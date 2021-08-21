@@ -1,0 +1,18 @@
+   body {
+     background-color: #ffefd5;
+   }
+   hr {
+     border-style: none;
+     border-top-style: dotted;
+     border-color: green;
+     border-width:5px;
+     width: 25%;
+   }
+  h1  {
+    text-shadow: 2px 2px orange;
+    color:  #e89f71;
+  }
+  h3  {
+     text-decoration: underline;
+    color:  #e89f71;
+  }
