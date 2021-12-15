@@ -21,3 +21,6 @@ a {
   font-family: 'Kulim Park', sans-serif;
   text-decoration: none;
 }
+a:hover{
+  color: #EAF6F6;
+}
